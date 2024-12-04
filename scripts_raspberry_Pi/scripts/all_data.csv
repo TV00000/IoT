@@ -1,0 +1,2 @@
+time;temperature;humidity;noise;isPeopleDetected;TVoC;CO2eq;alerte_aeration;alerte_intrusion;alerte_incendie
+2024-12-04 11:58:26.840589;22.8;40.0;93.0;0.0;0.0;400.0;False;False;False

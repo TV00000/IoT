@@ -1,0 +1,4 @@
+Pour ce montage, il faut brancher les modules suivants :
+        - grove soundSensor sur A0
+        - ledStick sur PWM (12,10)
+

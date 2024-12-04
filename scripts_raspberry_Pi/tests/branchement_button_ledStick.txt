@@ -1,0 +1,4 @@
+Pour ce montage, il faut brancher les modules suivants :
+	- grove led button sur D5
+	- grove led button sur D16
+	- ledStick sur PWM (12,10)
